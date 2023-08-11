@@ -8,3 +8,6 @@ The dataset contains Coffee Sales across different countries. The Coffee Sales w
 -- A Pivot table was created from the table selection with relevant pivot charts and slicers to analyze the Coffee Sales \
 -- The charts and visualizations were formatted into a dashboard 
 
+## RESULTS
+-- United States has the highest number of Coffee Sales. \
+-- Coffee Sales are vastly different for different Coffee Types and Roast Types 
